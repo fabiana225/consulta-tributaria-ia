@@ -3,13 +3,13 @@
 3) Qual é o limite de receita bruta anual para que o produtor rural pessoa física ou jurídica seja enquadrado como não contribuinte do IBS e da CBS?
 4) Quais tributos são instituídos e regulamentados pela Lei Complementar nº 214?
 5) Qual é a redução de alíquota aplicada aos serviços de educação e de saúde no regime diferenciado?
-6) Qual é a multa aplicável (em valor de UPF) ao contribuinte que deixar de realizar a inscrição no cadastro com identificação única no prazo?
+6) Qual é a penalidade aplicável ao contribuinte que deixar de realizar a inscrição no cadastro com identificação única no prazo?
 7) Qual é a periodicidade do período de apuração padrão do IBS e da CBS?
 8) Como se define a modalidade de recolhimento via split payment?
 9) Qual órgão atua como a instância máxima de deliberação do Comitê Gestor do IBS (CGIBS)?
 10) Qual é a alíquota da CBS cobrada sobre os fatos geradores ocorridos no período de transição no ano de 2026?
 11) Como a regra geral da base de cálculo (valor da operação) se contrapõe à regra aplicável ao regime específico dos serviços financeiros?
-12) Como se relacionam as obrigações das plataformas digitais intermediadoras com a operacionalização do recolhimento por split payment?
+12) Como as obrigações das plataformas digitais intermediadoras se relacionam com a operacionalização do recolhimento do IBS e da CBS?
 13) Qual é a diferença no tratamento do direito a crédito tributário entre operações com alíquota zero e operações isentas ou imunes?
 14) Como se dá a interação entre a imunidade das entidades religiosas/assistenciais nas suas vendas e a incidência tributária sobre suas compras?
 15) De que forma o regime da Sociedade Anônima do Futebol (SAF / TEF) concilia a tributação unificada sobre a receita com a sistemática da não cumulatividade?
@@ -17,4 +17,4 @@
 17) Como a Lei Complementar nº 227 estrutura a carreira, tabela de cargos e remuneração dos servidores do Comitê Gestor do IBS?
 18) Quais são as novas alíquotas do Imposto sobre Propriedade de Veículos Automotores (IPVA) aplicáveis a veículos elétricos?
 19) Quais são os critérios para a concessão de aposentadoria especial aos auditores fiscais municipais no novo sistema tributário?
-20) Qual é o cronograma de extinção gradual do Imposto sobre Importação (II) e do Imposto sobre Exportação (IE) determinado pela LC 214?
+20) Qual é o cronograma de extinção gradual do ICMS e do ISS determinado pela LC 214?
